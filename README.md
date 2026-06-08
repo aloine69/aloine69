@@ -32,6 +32,5 @@ Interests:
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aloine69&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aloine69&layout=compact&theme=radical&count_private=true)
-
+![GitHub stats](https://github-readme-stats-seven-gamma-74.vercel.app/api?username=aloine69&show_icons=true&theme=radical&count_private=true) <br> <br>
+![Top Languages](https://github-readme-stats-seven-gamma-74.vercel.app/api/top-langs/?username=aloine69&layout=compact&theme=radical&count_private=true)
